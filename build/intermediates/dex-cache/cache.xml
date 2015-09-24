@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-2c8da2f045d88d280e8a64bf1394ddfbdddedb7a.jar" />
+    </item>
+    <item
+        jar="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/pre-dexed/debug/classes-111c46ddabefebc428388a2ee0b7283b96924054.jar" />
+    </item>
+    <item
+        jar="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/pre-dexed/debug/classes-3c9da2f49c8e5451aedd2ce66ea449b29b225cc9.jar" />
+    </item>
+    <item
+        jar="/Users/nkotasth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/nkotasth/AndroidStudioProjects/LoanCalculator/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d97917c5144b7319d7e07dedb5bf88e4545f53ce.jar" />
+    </item>
+
+</items>
